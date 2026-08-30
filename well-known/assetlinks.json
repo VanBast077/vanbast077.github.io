@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.vanbast077.futebolaovivo.twa",
-    "sha256_cert_fingerprints": ["5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:F4:5A:A6:F3:58:87:5E:4D:7A:23:93:65:08:9B:4A:65:8A:3E:E8"]
-  }
-}]
